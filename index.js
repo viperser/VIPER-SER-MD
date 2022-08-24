@@ -211,7 +211,7 @@ AmruBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
    //dont forget to put my name(amru) as credit
    //you fail to put, i sue you for sure!
 let buttons = [
-{buttonId: `wkwkwk`, buttonText: {displayText: 'Sayonara 🥀'}, type: 1}
+{buttonId: `wkwkwk`, buttonText: {displayText: 'Mieren Poyi😂'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./amruMedia/theme/cheems.xlsx'),
