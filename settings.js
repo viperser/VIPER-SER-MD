@@ -31,23 +31,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['919895802105'] //ur owner number
-global.ownername = "AMRUSER" //ur owner name
-global.ytname = "YT: DRON" //ur yt chanel name
-global.socialm = "GitHub: AMRUSIR" //ur github or insta name
-global.location = "India, Kerala, Kottayam" //ur location
+global.vcardowner = ['916238054812'] //ur owner number
+global.ownername = "𝙑𝙄𝙋𝞝𝙍 𝙎𝞝𝗥" //ur owner name
+global.ytname = "𝙑𝙄𝙋𝞝𝙍 𝙎𝞝𝗥" //ur yt chanel name
+global.socialm = "INSTA:_adaxxh" //ur github or insta name
+global.location = "India, Kerala, Kozhikode" //ur location
 
 //bot bomdy 
-global.owner = ['919895802105']
-global.ownertag = '919895802105' //ur tag number
-global.botname = 'AMRU-SER-MD' //ur bot name
-global.linkz = "" //your theme url which will be displayed on whatsapp
-global.websitex = "" //ur website to be displayed
-global.botscript = 'https://github.com/AMRUSIR/AMRU-SER-MD' //script link
+global.owner = ['916238054812']
+global.ownertag = '91' //ur tag number
+global.botname = '𝙑𝙄𝙋𝞝𝙍 𝙎𝞝𝗥' //ur bot name
+global.linkz = "Nothing." //your theme url which will be displayed on whatsapp
+global.websitex = "Web??" //ur website to be displayed
+global.botscript = 'https://github.com/' //script link
 global.reactmoji = "🙂" //ur menu react emoji
 global.themeemoji = "😈" //ur theme emoji
-global.packname = "AMRU-SER" //ur sticker watermark packname
-global.author = "AMRU-SER-MD" //ur sticker watermark author
+global.packname = "𝙑𝙄𝙋𝞝𝙍 𝙎𝞝𝗥" //ur sticker watermark packname
+global.author = "🇮🇳⃝⭒͢ꪶ𝙑𝙄𝙋𝞢𝙍💖 𝙈𝘿⋆─ᷨ─ͦ─ͭ─⋆"
+//ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -56,7 +57,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['919895801205'] //ur premium numbers
+global.premium = ['916238054812'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
