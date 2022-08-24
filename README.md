@@ -2,15 +2,15 @@
 # AMRUSER-MD
 
 <p align="center">
-  <a href="https://www.instagram.com/_its_me_dron/"><img src="https://i.imgur.com/O5puGK7.jpeg" width="500" alt="Profile"/> </a>
+  <a href="https://www.instagram.com/_adaxxh/"><img src="https://i.imgur.com/d9aHXgF.jpeg" width="500" alt="Profile"/> </a>
 </p>
 <p align="center">
-AMRU-SER Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/AMRUSIR" target="_blank">AMRU</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star 🍭.
+VIPER-SER Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/viperser" target="_blank">VIPER</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star 🍭.
 </p>
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/917025631103"><img src="https://img.shields.io/badge/Contact AMRU-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/916238054812"><img src="https://img.shields.io/badge/Contact AMRU-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/Kohxxjg7rOjG3k1lGnKOpS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/"><img src="https://img.shields.io/badge/Subscribe AMRU-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
